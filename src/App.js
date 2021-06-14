@@ -5,6 +5,8 @@ import TradePairGroup from "./components/trade-pair-grouping";
 import MainNavBar from "./components/main-nav-bar";
 import Portfolio from "./components/portfolio";
 
+// import Trans from "./components/Trs";
+
 function App() {
   return (
     <Container fluid>
